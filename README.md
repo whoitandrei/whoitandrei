@@ -1,4 +1,5 @@
-## Hi there 👋
+## hi, I'm Andrei, NSU PE&CS student from Novosibirsk 
+this page is under developing, come back soon! 😄
 
 <!--
 **whoitandrei/whoitandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
