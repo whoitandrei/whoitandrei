@@ -1,7 +1,7 @@
 # Hi, I'm Andrei Zverev, NSU PE&CS student
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlmMW03aXA5ODdlbHdtazQ0ZmQ3M2UyN3cxNWp2dHI3Y2o3MnVtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8atAZLv4g6gg3tq0Ty/giphy.gif"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U4a2tnanJudGJrbWt5bm5rOHBidG8xYWplNHUyemozMndqcmN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUt8uDIusftiE/giphy.gif"/>
 </div>
 
 ### Skills
