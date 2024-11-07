@@ -1,5 +1,6 @@
-Hi, I'm Andrei Zverev
-==============================NSU PE&CS student-----------------* 🌍  I'm based in Novosibirsk* 🧠  I'm learning Object-Oriented Programming, Big Data
+# Hi, I'm Andrei Zverev, NSU PE&CS student
+🌍  I'm based in Novosibirsk, Russia (UTC+7) 
+🧠  I'm learning Object-Oriented Programming, Big Data
 
 ### Skills
 
@@ -8,6 +9,6 @@ Hi, I'm Andrei Zverev
 
 ### Socials<p align="left"> <a href="https://www.github.com/whoitandrei" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### other
+### Other
 
 <a href="https://github.com/whoitandrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoitandrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
