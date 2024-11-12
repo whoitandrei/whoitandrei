@@ -1,7 +1,7 @@
 # Hi, I'm Andrei Zverev, NSU PE&CS student
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U4a2tnanJudGJrbWt5bm5rOHBidG8xYWplNHUyemozMndqcmN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUt8uDIusftiE/giphy.gif" width="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U4a2tnanJudGJrbWt5bm5rOHBidG8xYWplNHUyemozMndqcmN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUt8uDIusftiE/giphy.gif" width="600"/>
 </div>
 
 👀 **I'm interesting in**:
@@ -12,12 +12,11 @@
 
 🧠 **I'm learning now**:
  - Object-Oriented Programming
- - Big Data
  - Web
  - Math
 
 📖 **I'm reading now**:
-- "The Stoic" by Theodore Dreiser
+- "Humiliated and Insulted" by Fedor Dostoyevsky
 - "Psychology of human drives" by Kazimierz Obuchowski
 
 ### Skills
@@ -31,6 +30,6 @@
 
 <a href="https://github.com/whoitandrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoitandrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### contacts
+### Contacts
 *mail*: whoitandrei@yandex.ru \
 *telegram*: @whoitandrei
