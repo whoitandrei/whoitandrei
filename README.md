@@ -6,9 +6,10 @@
 
 👀 **I'm interesting in**:
 - programming
-- investments
+- reading
 - psychology
 - Formula-1
+- investments (a little bit)
 
 🧠 **I'm learning now**:
  - Object-Oriented Programming
