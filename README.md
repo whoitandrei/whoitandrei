@@ -32,4 +32,4 @@
 
 ### Contacts
 *mail*: <a href="mailto:whoitandrei@yandex.ru">whoitandrei@yandex.ru</a> \
-*telegram*: @whoitandrei
+*telegram*: <a href="https://t.me/whoitandrei">@whoitandrei</a>
