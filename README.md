@@ -4,21 +4,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3U4a2tnanJudGJrbWt5bm5rOHBidG8xYWplNHUyemozMndqcmN4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sUt8uDIusftiE/giphy.gif" width="600"/>
 </div>
 
-👀 **I'm interesting in**:
-- programming
-- reading
-- psychology
-- Formula-1
-- investments (a little bit)
-
-🧠 **I'm learning now**:
- - Object-Oriented Programming
- - Web
- - Math
-
-📖 **I'm reading now**:
-- "Humiliated and Insulted" by Fedor Dostoyevsky
-- "Psychology of human drives" by Kazimierz Obuchowski
 
 ### Skills
 
