@@ -27,6 +27,5 @@
 <img src="https://duolingo-stats-card.vercel.app/api?username=whoitandrei&theme=nightowl" alt="Duolingo Stats"/>
 
 ### Contacts
-*mail*: <a href="mailto:whoitandrei@yandex.ru">whoitandrei@yandex.ru</a> \
-*telegram*: <a href="https://t.me/whoitandrei">@whoitandrei</a>
+*mail*: <a href="mailto:whoitandrei@yandex.ru">whoitandrei@yandex.ru</a> 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=whoitandrei&style=flat-square&color=blue" alt=""/></div>
