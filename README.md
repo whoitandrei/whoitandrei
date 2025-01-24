@@ -23,7 +23,7 @@
 
 ### Other
 
-<a href="https://github.com/whoitandrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoitandrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=24292e&hide_border=true&locale=en&custom_title=Used%20%Languages" alt="Top Languages" /></a> \
+<a href="https://github.com/whoitandrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoitandrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=24292e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> \
 <img src="https://duolingo-stats-card.vercel.app/api?username=whoitandrei&theme=nightowl" alt="Duolingo Stats"/>
 
 ### Contacts
