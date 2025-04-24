@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
-![Java](https://img.shields.io/badge/Java-11-blue)
+![Java](https://img.shields.io/badge/Java-23-blue)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
