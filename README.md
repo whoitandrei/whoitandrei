@@ -1,4 +1,4 @@
-# Hi, I'm Andrei Zverev, NSU PE&CS student
+# Hi, I'm Andrei Zverev
 
 
 
@@ -32,8 +32,8 @@
 
 
 ### ❓ Other
-![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/whoitandrei?theme=neutral) <br>
-<a href="https://github.com/whoitandrei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoitandrei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=24292e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/whoitandrei) <br>
+<a href="https://github.com/whoitandrei" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&langs_count=10" alt="Top Languages" /></a>
 
 
 ### 📵 Contacts
