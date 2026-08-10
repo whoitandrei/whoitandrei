@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/Java-23-blue)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 
-### 📝 Worked a bit with
+### 📝 Worked with
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
@@ -21,6 +21,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protobuf-4A73C2?style=flat&logo=protobuf&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
 
 
 ### ✉ Socials
@@ -36,4 +38,5 @@
 
 ### 📵 Contacts
 *mail*: <a href="mailto:whoitandrei@yandex.ru">whoitandrei@yandex.ru</a> 
+
 <div align="center"><img src="https://komarev.com/ghpvc/?username=whoitandrei&style=flat-square&color=blue" alt=""/></div>
