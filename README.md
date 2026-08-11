@@ -32,8 +32,9 @@
 
 
 ### ❓ Other
+![NeetCode](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/whoitandrei/neetcode-submissions/master/neetcode-progress.json) <br>
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/whoitandrei) <br>
-<a href="https://github.com/whoitandrei" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&langs_count=10" alt="Top Languages" /></a>
+<a href="https://github.com/whoitandrei" align="left"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&langs_count=5" alt="Top Languages" /></a>
 
 
 ### 📵 Contacts
