@@ -21,15 +21,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Protobuf](https://img.shields.io/badge/Protobuf-4A73C2?style=flat&logo=protobuf&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA">
-
-
-### ✉ Socials
-<a href="https://duolingo.com/profile/whoitandrei" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo">
-</a>
-
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=grpc&logoColor=white)
 
 ### ❓ Other
 ![NeetCode](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/whoitandrei/neetcode-submissions/master/neetcode-progress.json) <br>
