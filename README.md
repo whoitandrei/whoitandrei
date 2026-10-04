@@ -28,7 +28,7 @@
 ### ❓ Other
 ![NeetCode](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/whoitandrei/neetcode-submissions/master/neetcode-progress.json) <br>
 ![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/whoitandrei) <br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&layout=compact&langs_count=6&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&layout=compact&langs_count=6&theme=light_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&layout=compact&langs_count=6&theme=light_github&v=2)](https://github-stats-extended.vercel.app/api/top-langs?username=whoitandrei&layout=compact&langs_count=6&theme=light_github)
 
 
 ### 📵 Contacts
